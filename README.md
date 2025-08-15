@@ -1,5 +1,5 @@
 # Fake-news-text-classfier
-A machine learning project to classify news articles as real or fake based on their text content, using feature engineering, TF-IDF vectorization, and logistic regression.
+A machine learning project to classify news articles as real or fake based on their text content, using feature engineering, TF-IDF vectorization to process NLP, and logistic regression.
 
 1.Dataset
 
